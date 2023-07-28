@@ -5,11 +5,11 @@
 - `Westwoodlabs e.V.`
   - Short: `WWL` or `WWLabs`
   - Claim: `Der Hackerspace im Westerwald`
-  - Dont's: ~~`WESTWOODLABS`, `WestwoodLabs`, `Westwood Labs`, `W3stw00dl4b$`,~~
-- `Westwoodlabs Camp`
+  - Dont's: ~~`WESTWOODLABS`, `WestwoodLabs`, `Westwood Labs`, `W3stw00dl4b$`, etc.~~
+- `Westwood Camp`
   - Short: `WAMP`
   - Claim: `Das Camp im Westerwald`
-  - Dont's: ~~`wamp`, `Wamp`, `WestwoodLabs Camp`, `WestwoodlabsCamp`, `Westwood Labs Camp`, `Westw00dlabs Camp`~~
+  - Dont's: ~~`wamp`, `Wamp`, `WestWood Camp`, `Westwoodlabs Camp`, `WESTWOOD CAMP`, `Westwood Labs Camp`, `Westw00dlabs Camp`, etc.~~
 
 ## Logos
 
