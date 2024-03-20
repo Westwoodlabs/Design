@@ -22,27 +22,27 @@ The following overview shows the logos for light and dark backgrounds. The logos
 
 ### WWL Logo Light - for Light Backgrounds
 
-| (Default)                        | Normal Background                   | No Background                         | Round Background                         |
-| -------------------------------- | ----------------------------------- | ------------------------------------- | ---------------------------------------- |
-| ![](./WWL/WWL_Light_100x100.png) | ![](./WWL/WWL_Light_BG_100x100.png) | ![](./WWL/WWL_Light_NoBG_100x100.png) | ![](./WWL/WWL_Light_RoundBG_100x100.png) |
+| (Default)                       | Normal Background                  | No Background                        | Round Background                        |
+| ------------------------------- | ---------------------------------- | ------------------------------------ | --------------------------------------- |
+| ![](./Logo%20WWL/WWL_Light.svg) | ![](./Logo%20WWL/WWL_Light_BG.svg) | ![](./Logo%20WWL/WWL_Light_NoBG.svg) | ![](./Logo%20WWL/WWL_Light_RoundBG.svg) |
 
 ### WWL Logo Dark - for Dark Backgrounds
 
-| (Default)                       | Normal Background                  | No Background                        | Round Background                        |
-| ------------------------------- | ---------------------------------- | ------------------------------------ | --------------------------------------- |
-| ![](./WWL/WWL_Dark_100x100.png) | ![](./WWL/WWL_Dark_BG_100x100.png) | ![](./WWL/WWL_Dark_NoBG_100x100.png) | ![](./WWL/WWL_Dark_RoundBG_100x100.png) |
+| (Default)                      | Normal Background                 | No Background                       | Round Background                       |
+| ------------------------------ | --------------------------------- | ----------------------------------- | -------------------------------------- |
+| ![](./Logo%20WWL/WWL_Dark.svg) | ![](./Logo%20WWL/WWL_Dark_BG.svg) | ![](./Logo%20WWL/WWL_Dark_NoBG.svg) | ![](./Logo%20WWL/WWL_Dark_RoundBG.svg) |
 
 ### WAMP Logo Light - for Light Backgrounds
 
-| (Default)                          | Normal Background                     | No Background                           | Round Background                           |
-| ---------------------------------- | ------------------------------------- | --------------------------------------- | ------------------------------------------ |
-| ![](./WAMP/WAMP_Light_100x100.png) | ![](./WAMP/WAMP_Light_BG_100x100.png) | ![](./WAMP/WAMP_Light_NoBG_100x100.png) | ![](./WAMP/WAMP_Light_RoundBG_100x100.png) |
+| (Default)                         | Normal Background                    | No Background                          | Round Background                          |
+| --------------------------------- | ------------------------------------ | -------------------------------------- | ----------------------------------------- |
+| ![](./Logo%20WAMP/WAMP_Light.svg) | ![](./Logo%20WAMP/WAMP_Light_BG.svg) | ![](./Logo%20WAMP/WAMP_Light_NoBG.svg) | ![](./Logo%20WAMP/WAMP_Light_RoundBG.svg) |
 
 ### WAMP Logo Dark - for Dark Backgrounds
 
-| (Default)                         | Normal Background                    | No Background                          | Round Background                          |
-| --------------------------------- | ------------------------------------ | -------------------------------------- | ----------------------------------------- |
-| ![](./WAMP/WAMP_Dark_100x100.png) | ![](./WAMP/WAMP_Dark_BG_100x100.png) | ![](./WAMP/WAMP_Dark_NoBG_100x100.png) | ![](./WAMP/WAMP_Dark_RoundBG_100x100.png) |
+| (Default)                        | Normal Background                   | No Background                         | Round Background                         |
+| -------------------------------- | ----------------------------------- | ------------------------------------- | ---------------------------------------- |
+| ![](./Logo%20WAMP/WAMP_Dark.svg) | ![](./Logo%20WAMP/WAMP_Dark_BG.svg) | ![](./Logo%20WAMP/WAMP_Dark_NoBG.svg) | ![](./Logo%20WAMP/WAMP_Dark_RoundBG.svg) |
 
 ## Fonts
 
@@ -52,4 +52,4 @@ We use the Google Font `Orbitron` for our name. It is available in the `fonts` f
 
 The font is licensed under the [Open Font License](https://openfontlicense.org/), which means it is free to use, even for commercial purposes.
 
-![](./fonts/Orbitron/Orbitron_Preview.png.png)
+![](./Fonts/Orbitron/Orbitron_Preview.png)
